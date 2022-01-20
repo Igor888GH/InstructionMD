@@ -131,3 +131,7 @@ ___Жирный с наклоном___
 ![camaro](chevrolet_camaro.jpg)
 
 > Путь к фото выполняется посредством команды Copy Relative Path
+
+* Для создания интернет ссылки, использовать команду:
+
+[удаление файлов] <https://qastack.ru/programming/61212/how-to-remove-local-untracked-files-from-the-current-git-working-tree>
