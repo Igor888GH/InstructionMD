@@ -8,7 +8,7 @@
 
 * GitHub;
 
-* Bitbucket:
+* Bitbucket;
 
 * GitLab;
 
